@@ -1,9 +1,10 @@
 ## Hi there, I'm Melantha Chen 👋🏻  
 A **Full-Stack Developer** and **Data Enthusiast** passionate about building scalable web applications, crafting data-driven solutions, and exploring innovative UI/UX designs.  
 
-- 🪪 **MS Student** at [Northeastern University](https://www.northeastern.edu/), pursuing **MS in Software Engineering Systems**, **GPA: 3.7/4**, expected **2026**.  
-- 🎓 **[Dickinson College](https://www.dickinson.edu/)** - Dual B.S. in **Computer Science** & **Quantitative Economics**.  
-- 🧸 **Internships:**  
+- 🎓 **Education:**
+   - **MS Student** at [Northeastern University](https://www.northeastern.edu/), pursuing **MS in Software Engineering Systems**, **GPA: 3.7/4**, expected **2026**.     
+   - **[Dickinson College](https://www.dickinson.edu/)** - Dual B.S. in **Computer Science** & **Quantitative Economics**.  
+- 🪪 **Internships:**  
    - **[China Construction Bank](https://www.ccb.com/)** – Data Analytics Intern, 2023  
    - **[Dickinson College](https://www.dickinson.edu/)** – Research Assistant, 2023-2024  
 - 🚀 Tech Skills: **React.js**, **Next.js**, **Spring Boot**, **Python**, **Java**, **SQL**, **MongoDB**, **MySQL**, **SQLite**  
