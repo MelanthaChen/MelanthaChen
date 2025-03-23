@@ -44,16 +44,5 @@ A **Full-Stack Developer** and **Data Enthusiast** passionate about building sca
 
 ---
 
-### ❤️ Classic Quotes
-- "Success is not the key to happiness. Happiness is the key to success."  
-- "Do not follow where the path may lead. Go instead where there is no path and leave a trail."  
-- "Every accomplishment starts with the decision to try."  
 
----
 
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MelanthaChen&label=PROFILE+VIEWS">
-</p>
-
----
