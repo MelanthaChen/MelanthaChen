@@ -24,7 +24,7 @@ I specialize in developing scalable web applications, building efficient data pi
 
 ## **🎯 Projects**
 ✅ **[Find My Device](https://github.com/Melantha-Chen/FindMyDevice)** - A web application that helps users locate their lost devices.  
-✅ **[Song Data Analyzer](https://github.com/Melantha-Chen/Song-Data-Analyzer)** - An interactive web tool to explore trends in song lyrics.
+✅ **[Song Data Trend]([https://github.com/Melantha-Chen/Song-Data-Analyzer](https://github.com/MelanthaChen/SongDataTrend))** - An interactive web tool to explore trends in song lyrics.
 
 ---
 
