@@ -1,7 +1,3 @@
-### **Melantha Chen's GitHub README**
-
----
-
 ## **Hi there! 👋 I'm Melantha Chen**  
 **🚀 Full-Stack Developer | 🎯 Data Engineer | 💻 Web Enthusiast**  
 
@@ -10,53 +6,33 @@ I specialize in developing scalable web applications, building efficient data pi
 ---
 
 ## **🛠️ Tech Stack**
-| **Frontend** | **Backend** | **Database** | **Tools** |
-| :------------ | :------------ | :------------ | :------------ |
-| React.js, Next.js, TailwindCSS | Java, Spring Boot, Flask | MySQL, MongoDB, SQLite3 | Postman, Swagger, Git |
+**Frontend:** ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+
+**Backend:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)  
+
+**Database:** ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  
+
+**Other Tools:** ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## **📈 Projects**
-### 🔹 **[Song Data Analyzer](https://github.com/Melantha-Chen/Song-Data-Analyzer)**  
-A research-driven web platform visualizing language trends in music through advanced data analysis tools.  
-- Scraped and processed **300,000+** song lyrics from multiple web sources using **BeautifulSoup** and **Pandas**.  
-- Created a **MySQL** database structure to improve data management, reducing data preparation time by **60%**.  
-- Developed interactive dashboards using **React.js** and **Spring Boot** with optimized API endpoints to boost data load speed by **30%**.  
+## **📈 GitHub Stats**
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Melantha-Chen&show_icons=true&theme=radical" alt="Melantha's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melantha-Chen&layout=compact&theme=radical" alt="Melantha's Top Languages" /> |
+|:---:|:---:|
 
 ---
 
-### 🔹 **[Device Detective Tool](https://github.com/Melantha-Chen/FindMyDevice)**  
-A cross-platform tool designed for tracking and safeguarding smart devices.  
-- Developed with **Java**, **Spring**, **MongoDB**, and **SockJS** to centralize device tracking, reducing platform-switching time by **35%**.  
-- Enhanced security with real-time device activity notifications and improved system response time by **40%** through performance optimization.  
-
----
-
-### 🔹 **[Library Management System](https://github.com/Melantha-Chen/Library-Management-System)**  
-An automated system built to streamline university library operations.  
-- Developed with **HTML/CSS**, **Java**, **Python**, and **Flask** to manage cataloging, borrowing, and access control.  
-- Reduced transaction processing time by **50%** with optimized data structures and secure role-based access control.  
-
----
-
-## **📚 Education**
-🎓 **Northeastern University** – MS in Software Engineering Systems (Expected 2026)  
-🎓 **Dickinson College** – Dual Degree in Computer Science & Quantitative Economics (May 2024)  
+## **🎯 Projects**
+✅ **[Find My Device](https://github.com/Melantha-Chen/FindMyDevice)** - A web application that helps users locate their lost devices.  
+✅ **[Song Data Analyzer](https://github.com/Melantha-Chen/Song-Data-Analyzer)** - An interactive web tool to explore trends in song lyrics.
 
 ---
 
 ## **🌍 Connect with Me**
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/yuxuan-chen-739160245/)  
-- 🌐 [**Portfolio**](https://melantha-chen.com)  
-- 📧 **chen.yuxuan9@northeastern.edu**  
+💼 [LinkedIn](https://www.linkedin.com/in/yuxuan-chen-739160245/)  
+📧 **yuxuan.chen@example.com**  
+🌐 [Portfolio Website](https://melantha-chen.com)  
 
 ---
 
-## **🔎 Additional Info**
-- 🔹 I thrive on building data-driven insights and optimizing system performance.  
-- 🔹 Passionate about learning new technologies and improving user experiences.  
-- 🔹 Excited to connect and collaborate on innovative projects!  
-
----
-
-🚀 **Let's build something amazing together!**
+If you’d like additional customization, feel free to ask! 🚀
