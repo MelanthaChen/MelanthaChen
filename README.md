@@ -17,7 +17,7 @@ I specialize in developing scalable web applications, building efficient data pi
 ---
 
 ## **📈 GitHub Stats**
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Melantha-Chen&show_icons=true&theme=radical" alt="Melantha's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melantha-Chen&layout=compact&theme=radical" alt="Melantha's Top Languages" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MelanthaChen&show_icons=true&theme=radical" alt="Melantha's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelanthaChen&layout=compact&theme=radical" alt="Melantha's Top Languages" /> |
 |:---:|:---:|
 
 ---
