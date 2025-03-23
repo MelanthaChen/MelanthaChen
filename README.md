@@ -30,9 +30,7 @@ I specialize in developing scalable web applications, building efficient data pi
 
 ## **🌍 Connect with Me**
 💼 [LinkedIn](https://www.linkedin.com/in/yuxuan-chen-739160245/)  
-📧 **yuxuan.chen@example.com**  
+📧 **yuxuan.chen.1031@gmail.com**  
 🌐 [Portfolio Website](https://melantha-chen.com)  
 
 ---
-
-If you’d like additional customization, feel free to ask! 🚀
