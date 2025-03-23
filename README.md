@@ -5,8 +5,8 @@ A **Full-Stack Developer** and **Data Enthusiast** passionate about building sca
    - **[Northeastern University](https://www.northeastern.edu/)**, pursuing **MS in Software Engineering Systems**, **GPA: 3.7/4**, expected **2026**.     
    - **[Dickinson College](https://www.dickinson.edu/)** - Dual B.S. in **Computer Science** & **Quantitative Economics**.  
 - 🪪 **Internships:**  
+   - **[Dickinson College](https://www.dickinson.edu/)** – Research Assistant, 2023-2024
    - **[China Construction Bank](https://www.ccb.com/)** – Data Analytics Intern, 2023  
-   - **[Dickinson College](https://www.dickinson.edu/)** – Research Assistant, 2023-2024  
 - 🚀 Tech Skills: **React.js**, **Next.js**, **Spring Boot**, **Python**, **Java**, **SQL**, **MongoDB**, **MySQL**, **SQLite**  
 - 📨 Email me at: [yuxuan.chen.1031@gmail.com](mailto:yuxuan.chen.1031@gmail.com)  
 - 🐾 Find me at: [LinkedIn](https://www.linkedin.com/in/yuxuan-chen-739160245/)  
