@@ -31,7 +31,6 @@ A **Full-Stack Developer** and **Data Enthusiast** passionate about building sca
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MelanthaChen&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
   <img src="https://github-readme-stats.vercel.app/api?username=MelanthaChen&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelanthaChen&layout=compact&line_height=20&theme=dracula&border_radius=20">
 </p>
