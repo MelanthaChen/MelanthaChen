@@ -39,7 +39,7 @@ A **Full-Stack Developer** and **Data Enthusiast** passionate about building sca
 
 ### 🎯 Projects
 ✅ **[Find My Device](https://github.com/Melantha-Chen/FindMyDevice)** - Web app to track and safeguard smart devices.  
-✅ **[Song Data_Trend](https://github.com/MelanthaChen/SongDataTrend)** - Interactive tool for exploring song lyric trends.
+✅ **[Song Data Trend](https://github.com/MelanthaChen/SongDataTrend)** - Interactive tool for exploring song lyric trends.
 
 ---
 
